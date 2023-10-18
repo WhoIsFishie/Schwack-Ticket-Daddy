@@ -1,0 +1,9 @@
+{
+  "TeleBotConfiguration": {
+    "BotToken": "contact @BotFather",
+    "ChatID": "-100"
+  },
+  "CinemaConfig": {
+    "MovieName": "Shrek"
+  }
+}
